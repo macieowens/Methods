@@ -1,0 +1,14 @@
+C:\Users\macie\repos\usethismethod\bin\Debug\netcoreapp3.1\usethismethod.exe
+C:\Users\macie\repos\usethismethod\bin\Debug\netcoreapp3.1\usethismethod.deps.json
+C:\Users\macie\repos\usethismethod\bin\Debug\netcoreapp3.1\usethismethod.runtimeconfig.json
+C:\Users\macie\repos\usethismethod\bin\Debug\netcoreapp3.1\usethismethod.runtimeconfig.dev.json
+C:\Users\macie\repos\usethismethod\bin\Debug\netcoreapp3.1\usethismethod.dll
+C:\Users\macie\repos\usethismethod\bin\Debug\netcoreapp3.1\usethismethod.pdb
+C:\Users\macie\repos\usethismethod\obj\Debug\netcoreapp3.1\usethismethod.csproj.AssemblyReference.cache
+C:\Users\macie\repos\usethismethod\obj\Debug\netcoreapp3.1\usethismethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\repos\usethismethod\obj\Debug\netcoreapp3.1\usethismethod.AssemblyInfoInputs.cache
+C:\Users\macie\repos\usethismethod\obj\Debug\netcoreapp3.1\usethismethod.AssemblyInfo.cs
+C:\Users\macie\repos\usethismethod\obj\Debug\netcoreapp3.1\usethismethod.csproj.CoreCompileInputs.cache
+C:\Users\macie\repos\usethismethod\obj\Debug\netcoreapp3.1\usethismethod.dll
+C:\Users\macie\repos\usethismethod\obj\Debug\netcoreapp3.1\usethismethod.pdb
+C:\Users\macie\repos\usethismethod\obj\Debug\netcoreapp3.1\usethismethod.genruntimeconfig.cache
